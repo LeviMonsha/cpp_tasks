@@ -1,0 +1,10 @@
+﻿  lab5_3.cpp
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_3\lab5_3\lab5_3.cpp(31,39): warning C4267: =: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_3\lab5_3\lab5_3.cpp(34,38): warning C4267: =: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_3\lab5_3\lab5_3.cpp(37,41): warning C4267: =: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_3\lab5_3\lab5_3.cpp(77,27): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_3\lab5_3\lab5_3.cpp(97,27): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_3\lab5_3\lab5_3.cpp(128,13): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_3\lab5_3\lab5_3.cpp(141,24): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_3\lab5_3\lab5_3.cpp(214,22): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab5_3.vcxproj -> C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_3\x64\Debug\lab5_3.exe

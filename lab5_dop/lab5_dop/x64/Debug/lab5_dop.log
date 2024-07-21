@@ -1,0 +1,6 @@
+﻿  lab5_dop.cpp
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_dop\lab5_dop\lab5_dop.cpp(33,22): warning C4244: инициализация: преобразование "uintmax_t" в "int", возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_dop\lab5_dop\lab5_dop.cpp(82,27): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_dop\lab5_dop\lab5_dop.cpp(137,31): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_dop\lab5_dop\lab5_dop.cpp(184,21): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  lab5_dop.vcxproj -> C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab5_dop\x64\Debug\lab5_dop.exe

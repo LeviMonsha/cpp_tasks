@@ -1,0 +1,4 @@
+﻿  lab8_dopR.cpp
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab8_dopR\lab8_dopR\lab8_dopR.cpp(36,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab8_dopR\lab8_dopR\lab8_dopR.cpp(80,32): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  lab8_dopR.vcxproj -> C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab8_dopR\x64\Debug\lab8_dopR.exe

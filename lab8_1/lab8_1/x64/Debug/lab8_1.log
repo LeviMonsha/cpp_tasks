@@ -1,0 +1,4 @@
+﻿  lab8_1.cpp
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab8_1\lab8_1\lab8_1.cpp(35,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab8_1\lab8_1\lab8_1.cpp(79,32): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  lab8_1.vcxproj -> C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab8_1\x64\Debug\lab8_1.exe

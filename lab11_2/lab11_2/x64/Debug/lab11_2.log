@@ -1,0 +1,4 @@
+﻿  lab11_2.cpp
+C:\main\lang\c++\lab11_2\lab11_2\lab11_2.cpp(32,21): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\main\lang\c++\lab11_2\lab11_2\lab11_2.cpp(58,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  lab11_2.vcxproj -> C:\main\lang\c++\lab11_2\x64\Debug\lab11_2.exe

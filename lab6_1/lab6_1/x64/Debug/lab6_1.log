@@ -1,0 +1,5 @@
+﻿  lab6_1.cpp
+C:\main\lang\c++\lab6_1\lab6_1\lab6_1.cpp(37,21): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\main\lang\c++\lab6_1\lab6_1\lab6_1.cpp(18,22): warning C4101: bytesWritten: неиспользованная локальная переменная
+C:\main\lang\c++\lab6_1\lab6_1\lab6_1.cpp(110,22): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  lab6_1.vcxproj -> C:\main\lang\c++\lab6_1\x64\Debug\lab6_1.exe

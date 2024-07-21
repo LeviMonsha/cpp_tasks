@@ -1,0 +1,4 @@
+﻿  lab9_1.cpp
+C:\main\lang\c++\lab9_1\lab9_1\lab9_1.cpp(88,24): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\main\lang\c++\lab9_1\lab9_1\lab9_1.cpp(105,27): warning C4018: <: несоответствие типов со знаком и без знака
+  lab9_1.vcxproj -> C:\main\lang\c++\lab9_1\x64\Debug\lab9_1.exe

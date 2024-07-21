@@ -1,0 +1,4 @@
+﻿  lab7qu.cpp
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab7qu\lab7qu\lab7qu.cpp(35,25): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab7qu\lab7qu\lab7qu.cpp(79,32): warning C4267: инициализация: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  lab7qu.vcxproj -> C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab7qu\x64\Debug\lab7qu.exe

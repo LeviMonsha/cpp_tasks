@@ -1,0 +1,4 @@
+﻿  lab3_2.cpp
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab3_2\lab3_2\lab3_2.cpp(76,43): warning C4312: приведение типов: преобразование из "uint32_t" в "void *" большего размера
+C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab3_2\lab3_2\lab3_2.cpp(76,42): warning C4267: +=: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  lab3_2.vcxproj -> C:\Users\Tumbi\OneDrive\Рабочий стол\lang\c++\lab3_2\x64\Debug\lab3_2.exe

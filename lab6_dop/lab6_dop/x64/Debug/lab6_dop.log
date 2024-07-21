@@ -1,0 +1,4 @@
+﻿  lab6_dop.cpp
+C:\main\lang\c++\lab6_dop\lab6_dop\lab6_dop.cpp(45,21): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+C:\main\lang\c++\lab6_dop\lab6_dop\lab6_dop.cpp(186,21): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  lab6_dop.vcxproj -> C:\main\lang\c++\lab6_dop\x64\Debug\lab6_dop.exe
